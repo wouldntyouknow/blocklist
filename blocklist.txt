@@ -1,0 +1,15 @@
+[Adblock Plus]
+! Just some custom blocked stuff
+!
+||n8n.io^
+||cust-service.com^
+||api-hotjar.com^
+||analytics.oneplus.cn^
+||webapi.amap.com^
+||ibyteimg.com^
+||samsung.com.cn^
+||log.tailscale.com^
+||quartzbear.link^
+||unix.dog^
+||akhil.ru^
+||secureserver.net^
