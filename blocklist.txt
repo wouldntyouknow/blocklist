@@ -1,4 +1,3 @@
-[Adblock Plus]
 ! Just some custom blocked stuff
 !
 ||n8n.io^
