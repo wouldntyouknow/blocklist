@@ -12,3 +12,4 @@
 ||unix.dog^
 ||akhil.ru^
 ||secureserver.net^
+||ads.brave.com^
