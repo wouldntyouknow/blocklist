@@ -13,3 +13,5 @@
 ||akhil.ru^
 ||secureserver.net^
 ||ads.brave.com^
+||ads.brave.com^
+||api.micloud.xiaomi.net^
